@@ -1,0 +1,35 @@
+_repo: The-Lady-of-the-Isle-b-or-the-Island-Princess_75497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Nevitt, Dorothy Emma Eliza
+    - Southworth, E. D. E. N.
+    - Southworth, Emma D. E. N.
+    - Southworth, Mrs. E. D. E. N.
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: ''
+gutenberg_issued: '2025-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75497'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100604016
+pgterms:marc905: 20210301102630southworth
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bT. B. Peterson & Brothers, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Lady of the Isle : $b or, the Island Princess'
+url: http://www.gutenberg.org/ebooks/75497
